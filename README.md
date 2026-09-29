@@ -20,7 +20,7 @@ Experience across **banking (Banco do Brasil), IT consulting (IBM), retail, educ
 
 | UK Retail & SME Banking | Żabka Executive Dashboard |
 |---|---|
-| ![UK Banking Dashboard](https://github.com/joaopaura/lloyds-banking-azure-analytics/blob/main/docs/screenshots/02_profitability.png?raw=true) | ![Żabka Dashboard](https://github.com/joaopaura/zabka-executive-dashboard/blob/main/docs/images/02_sales.png?raw=true) |
+| ![UK Banking Dashboard](https://github.com/joaopaura/lloyds-banking-azure-analytics/blob/main/docs/screenshots/02_profitability.png?raw=true) | ![Żabka Dashboard](https://github.com/joaopaura/zabka-executive-dashboard/blob/main/docs/images/02_sales.PNG?raw=true) |
 
 ---
 
