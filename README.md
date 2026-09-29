@@ -15,10 +15,12 @@ Experience across **banking (Banco do Brasil), IT consulting (IBM), retail, educ
 | Project | Industry | Highlights | Live |
 |---|---|---|---|
 | [**UK Retail & SME Banking**](https://github.com/joaopaura/lloyds-banking-azure-analytics) | Banking (UK) | End-to-end Azure pipeline: Python → ADLS Gen2 → Data Factory (metadata-driven, incremental) → Azure SQL (stg / silver / gold / mart) → Power BI. ~96M rows, automated data quality checks, IFRS 9, NIM vs Bank Rate | [View dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzM3OGZhZjQtOTk0Yy00NzNiLWE2MDktYTE5OTk2MGU3YmM1IiwidCI6ImRlODdjNWRjLTBhMzctNDVlMi1hNzhhLTM3NDg0ODE0MDNiZiJ9) |
-| [**Żabka Executive Dashboard**](https://github.com/joaopaura/zabka-executive-dashboard) | Retail (Poland) | Sales & profitability, store network, digital app adoption, 1.17M-row fact table, TMDL, PBIP | |
+| [**Żabka Executive Dashboard**](https://github.com/joaopaura/zabka-executive-dashboard) | Retail (Poland) | Sales & profitability, store network, digital app adoption, 1.17M-row fact table, TMDL, PBIP | [View dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTFlZDA5MDEtNTdhZi00OTcxLThiZmUtMWU0NjkzODc4NjZlIiwidCI6ImRlODdjNWRjLTBhMzctNDVlMi1hNzhhLTM3NDg0ODE0MDNiZiJ9) |
 | **Pharma Dashboard** | Pharmaceutical | *Coming soon* | |
 
-![UK Banking Dashboard](https://github.com/joaopaura/lloyds-banking-azure-analytics/blob/main/docs/screenshots/02_profitability.png?raw=true)
+| UK Retail & SME Banking | Żabka Executive Dashboard |
+|---|---|
+| ![UK Banking Dashboard](https://github.com/joaopaura/lloyds-banking-azure-analytics/blob/main/docs/screenshots/02_profitability.png?raw=true) | ![Żabka Dashboard](https://github.com/joaopaura/zabka-executive-dashboard/blob/main/docs/images/02_sales.png?raw=true) |
 
 ---
 
