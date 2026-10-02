@@ -25,6 +25,11 @@ Experience across **banking (Banco do Brasil), IT consulting (IBM), retail, educ
 | **Lloyds UK Retail & SME Banking** | **Żabka Executive Dashboard** |
 | ![Lloyds Dashboard](https://github.com/joaopaura/lloyds-banking-azure-analytics/blob/main/docs/screenshots/02_profitability.png?raw=true) | ![Żabka Dashboard](https://github.com/joaopaura/zabka-executive-dashboard/blob/main/docs/images/02_sales.PNG?raw=true) |
 
+### Nestlé | European FMCG Lakehouse on Azure Databricks
+Legacy ERP (Azure SQL) migrated into a governed Delta lakehouse with Unity Catalog: 13.7M rows, 3,480 dirty files, 72/72 reconciliation checks, row-level security and PII masks, MLflow demand forecast (91.5% accuracy) and a 10-task pipeline orchestrated by Databricks Workflows and ADF.
+`Azure Databricks` `Unity Catalog` `Delta Lake` `PySpark` `MLflow` `Data Factory` `Asset Bundles` `Power BI`
+[Live dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDU3YmQxYzktYzI4NC00MzIxLWEwY2QtN2E1YmY5N2NiMzdmIiwidCI6ImRlODdjNWRjLTBhMzctNDVlMi1hNzhhLTM3NDg0ODE0MDNiZiJ9) | [Code](https://github.com/joaopaura/nestle-azure-databricks-lakehouse)
+
 ---
 
 ## 🛠️ Tech stack
